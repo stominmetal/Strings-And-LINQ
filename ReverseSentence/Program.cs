@@ -11,15 +11,14 @@ namespace ReverseSentence
         {
             string seq = Console.ReadLine();
             char[] sep = new char[] { '.', ',', ':', ';', '=', '(', ')', '&', '[', ']', '\"', '\'', '\\', '/', '!', ' ' };
-            List<string> words = seq.Split(sep, StringSplitOptions.RemoveEmptyEntries).ToList();
-            words.Reverse();
+            string[] words = seq.Split(sep, StringSplitOptions.RemoveEmptyEntries);
 
             string newString = null;
-            int i = 0, index = 0;
+            int i = 0, index = words.Length - 1;
 
             do
             {
-                newString += words[index++];
+                newString += words[index--];
                 while (!(sep.Contains(seq[i]))) i++;
                 while (i < seq.Length && sep.Contains(seq[i])) newString += seq[i++];
             } while (i < seq.Length);
