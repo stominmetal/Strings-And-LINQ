@@ -9,33 +9,19 @@ namespace ReverseSentence
     {
         static void Main(string[] args)
         {
-            var seq = Console.ReadLine();
-            string oldSeq = seq;
+            string seq = Console.ReadLine();
             char[] sep = new char[] { '.', ',', ':', ';', '=', '(', ')', '&', '[', ']', '\"', '\'', '\\', '/', '!', ' ' };
             List<string> words = seq.Split(sep, StringSplitOptions.RemoveEmptyEntries).ToList();
             words.Reverse();
 
             string newString = null;
-            int i = 0;
-            int index = 0;
+            int i = 0, index = 0;
 
             do
             {
-                newString = newString + words[index];
-                index++;
-                while (!(sep.Contains(seq[i])))
-                {
-                    i++;
-                }
-                while (sep.Contains(seq[i]))
-                {
-                    newString = newString + seq[i];
-                    i++;
-                    if (i >= seq.Length)
-                    {
-                        break;
-                    }
-                }
+                newString += words[index++];
+                while (!(sep.Contains(seq[i]))) i++;
+                while (i < seq.Length && sep.Contains(seq[i])) newString += seq[i++];
             } while (i < seq.Length);
 
             Console.WriteLine(newString);
