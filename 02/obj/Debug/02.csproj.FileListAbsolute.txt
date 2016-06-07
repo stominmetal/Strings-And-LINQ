@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2015\Projects\01\02\bin\Debug\02.exe
+c:\users\stoyan\documents\visual studio 2015\Projects\01\02\bin\Debug\02.pdb
+c:\users\stoyan\documents\visual studio 2015\Projects\01\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2015\Projects\01\02\obj\Debug\02.exe
+c:\users\stoyan\documents\visual studio 2015\Projects\01\02\obj\Debug\02.pdb

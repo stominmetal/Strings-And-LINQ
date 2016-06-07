@@ -1,0 +1,4 @@
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\10\bin\Debug\10.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\10\bin\Debug\10.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\10\obj\Debug\10.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\10\obj\Debug\10.pdb

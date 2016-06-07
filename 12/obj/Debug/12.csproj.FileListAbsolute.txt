@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\12\bin\Debug\12.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\12\bin\Debug\12.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\12\obj\Debug\12.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\12\obj\Debug\12.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\12\obj\Debug\12.csprojResolveAssemblyReference.cache

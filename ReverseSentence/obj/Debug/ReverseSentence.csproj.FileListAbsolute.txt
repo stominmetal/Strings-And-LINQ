@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\ReverseSentence\bin\Debug\ReverseSentence.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\ReverseSentence\bin\Debug\ReverseSentence.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\ReverseSentence\obj\Debug\ReverseSentence.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\ReverseSentence\obj\Debug\ReverseSentence.exe
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\01\ReverseSentence\obj\Debug\ReverseSentence.pdb
